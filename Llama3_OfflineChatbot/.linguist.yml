@@ -1,0 +1,5 @@
+﻿linguist-detectable:
+  - JavaScript
+  - HTML
+linguist-documentation:
+  - *.css
